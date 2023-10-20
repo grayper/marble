@@ -278,9 +278,9 @@
   background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0) 80%);
 }
 /*------------- Global Prefix -------------------*/
-::-webkit-scrollbar{ width: 5px; }
+/* ::-webkit-scrollbar{ width: 5px; }
 ::-webkit-scrollbar-track { background: #fff;}
-::-webkit-scrollbar-thumb { background: var(--blue-dark);border-radius: 0;}
+::-webkit-scrollbar-thumb { background: var(--blue-dark);border-radius: 0;} */
 :root {
   --text-color: #73737B;
   --text-light:#888888;
